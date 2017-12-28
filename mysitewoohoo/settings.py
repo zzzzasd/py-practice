@@ -25,7 +25,7 @@ SECRET_KEY = 'c+=ovxdg@3m(g77-u$bk2m94w7g7t7s3ef8&m*x2$az6vv46j3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1', 'shern.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1', 'shern720.pythonanywhere.com']
 
 
 # Application definition
